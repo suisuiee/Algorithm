@@ -9,7 +9,7 @@ import java.util.Arrays;
 */
 class Solution {
     public int[] solution(int[] array, int[][] commands) {
-        int i, j, k;
+        int i;
         int[] answer = new int[commands.length];
         
         // for문
